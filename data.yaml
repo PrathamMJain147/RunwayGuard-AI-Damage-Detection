@@ -1,0 +1,7 @@
+path: C:\Users\prath\Downloads\runway crack detection.v3i.yolov8
+
+train: train/images
+val: valid/images
+
+nc: 5
+names: ['L1_Hole', 'L2_Hole', 'L3_Hole', 'mildcracks', 'severecracks']
